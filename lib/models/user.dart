@@ -13,4 +13,6 @@ class User {
     @required this.avatarUrl,
   });
 
+  void put(User user) {}
+
 }
